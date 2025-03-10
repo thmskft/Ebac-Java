@@ -1,0 +1,3 @@
+Estrutura procedural é um código organizado em funções que executam tarefas específicas. Possuí um fluxo sequencial.
+
+Programação orientada objeto é organizada em objetos que combinam dados e comportamentos. As vantagens de se trabalhar com POO é a partir da modularidade, reutilização e encapsulamento.
